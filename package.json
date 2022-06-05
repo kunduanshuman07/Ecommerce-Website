@@ -1,0 +1,11 @@
+{
+  "name": "ecommerce-website",
+  "version": "1.0.0",
+  "description": "This is a Ecommerce Website",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Anshuman Kundu",
+  "license": "ISC"
+}
